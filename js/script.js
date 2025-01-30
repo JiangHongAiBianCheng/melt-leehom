@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     button = document.getElementById('playBtn');
     
     const targetDate = new Date('2025-01-28T23:59:59');
-    const targetDate2 = new Date('2025-01-29T23:59:59');
+    const targetDate2 = new Date('2025-02-02T23:59:59');
 
     function meltIce() {
         ice.style.opacity = '0';
